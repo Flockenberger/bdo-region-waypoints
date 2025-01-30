@@ -4,6 +4,7 @@
 This repository is meant to fine-tune my auto-generation of preview images as well as blob/waypoint generation.
 It is not neccessarily intended to give the best waypoints for each region/node.
 (not that those are really needed :D)
+Therefore some waypoints may not be accessible since they are in areas which are not meant to be traveled/waypointed to (ocean, desert etc.)!
 
 As another side-note:
 `All Y positions are set to 0!`
